@@ -1,0 +1,8 @@
+PRIMERO CORRER EL INSTALADOR DE DEPENDENCIAS 
+CON ESTE COMANDO:
+
+pip install -r requirements.txt
+
+PARA GENERAR BINGOS:
+
+py bingos.py
